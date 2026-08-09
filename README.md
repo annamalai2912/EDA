@@ -1,4 +1,5 @@
 
+
 # BCA 3rd Year Data Science - Complete Semester Resources
 
 This repository is designed to be the definitive resource for your 3rd Year Data Science course. It covers every single topic mentioned in your syllabus, from basic data types to advanced simulations and case studies.
@@ -59,11 +60,11 @@ This repository is designed to be the definitive resource for your 3rd Year Data
 
 ## 🚀 How to Use Specifically for Exams/Labs
 
-1.  **For Lab Experiment 1 (Data Types):** Run `Unit1.../data_classification.py`.
-2.  **For Lab Experiment 2 (EDA Assumptions):** Run `Unit2.../4_plot_assumptions.py`.
-3.  **For Lab Experiment 9 (Imputation):** Run `Unit3.../05_advanced_imputation.py`.
-4.  **For Lab Experiment 4 (ANOVA):** Run `Unit4.../anova_distributions.py`.
-5.  **For Case Studies:** Run `Unit5.../Specific_Cases/02_case_studies_resistor_heat.py`.
+1.  **For Lab Experiment 1 (Data Types):** Run `Unit1_Intro_Data_Types/Practical_Scripts/data_classification.py`.
+2.  **For Lab Experiment 2 (EDA Assumptions):** Run `Unit2_Intro_EDA_Assumptions/Practical_Scripts/4_plot_assumptions.py`.
+3.  **For Lab Experiment 9 (Imputation):** Run `Unit3_EDA/Practical_Scripts/Complex_Advanced/05_advanced_imputation.py`.
+4.  **For Lab Experiment 4 (ANOVA):** Run `Unit4_Quantitative_Analysis/Practical_Scripts/anova_distributions.py`.
+5.  **For Case Studies:** Run `Unit5_Simulations_CaseStudies/Practical_Scripts/Specific_Cases/02_case_studies_resistor_heat.py`.
 
 ## 📚 Study Resources
 
